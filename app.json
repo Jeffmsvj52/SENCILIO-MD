@@ -1,9 +1,9 @@
 {
-  "name":"PING-MD",
-  "description":"bot whatsapp developed by Mbuvi Tech",
+  "name":"SENCILIO-MD",
+  "description":"SENCILIO-MD is  developed by SV Jeff",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
-  "repository":"https://github.com/cheekydavy/PING-MD",
+  "logo":"https://telegra.ph/file/7b83d944b5b1459585b72.jpg",
+  "repository":"https://github.com/Jeffmsvj52/SENCILIO-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"PING-MD",
+      "value":"SENCILIO-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
+      "value":"https://telegra.ph/file/7b83d944b5b1459585b72.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mbuvi Tech"
+    "value": "SV Jeff"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254743680703"
+    "value": "254789088336"
   },
     "WARN_COUNT":
   {
