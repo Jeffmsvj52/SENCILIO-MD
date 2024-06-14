@@ -2,30 +2,23 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center"> SENCILIO MD </h1>
 
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
       <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SENCILIO+-+MD+WHATSAPP+BOT" alt="">
 </p>
 
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 <p align="center"> SENCILIO MD💥, A Simple WhatsApp user BOT, Created by SV Jeff.
 </p>
-<p align="center">
-
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/7b83d944b5b1459585b72.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
-
 [PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***
 
-
-  
  [QR] ***[`TAP HERE TO SCAN QR`](https://bmw-code-app-c1168f4953cd.herokuapp.com/qr)***
 
 
@@ -34,7 +27,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## STEPS TO DEPLOY YOUR BOT
-
 
 Star the repo up there then click Here To  [`FORK`](https://github.com/Jeffmsvj52/SENCILIO-MD/fork)
  TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..
@@ -50,14 +42,8 @@ Star the repo up there then click Here To  [`FORK`](https://github.com/Jeffmsvj5
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   
-  
-
-
-
 
 ## Contributions
-
 
 Contributions to *SENCILIO-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
