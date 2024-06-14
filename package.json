@@ -1,5 +1,5 @@
 {
-  "name": "PING-MD",
+  "name": "SENCILIO-MD",
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "PING-Md",
+    "SENCILIO-Md",
     "whatsapp",
     "whatsapp-bot",
-    "Mbuvi"
+    "SV Jeff"
   ],
-  "author": "Mbuvi",
+  "author": "SV Jeff",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
