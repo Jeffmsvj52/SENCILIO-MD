@@ -7,7 +7,6 @@
       <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AGUSTA+MD+WHATSAPP+BOT" alt="">
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+SENCILIO+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+SV+Jeff)](https://git.io/typing-svg)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
