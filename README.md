@@ -5,10 +5,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SENCILIO+-+MD+WHATSAPP+BOT" alt="">
-</p>
-
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AGUSTA+MD+WHATSAPP+BOT" alt="">
+  </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 <p align="center"> SENCILIO MD💥, A Simple WhatsApp user BOT, Created by SV Jeff.
