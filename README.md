@@ -5,7 +5,9 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+SENCILIO+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+SV+Jeff)](https://git.io/typing-svg)
+</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
